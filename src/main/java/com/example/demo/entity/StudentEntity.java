@@ -48,8 +48,4 @@ public class Studententity {
     public void setCgpa(float cgpa) {
         this.cgpa = cgpa;
     }
-    
-   
-    
-    
 }                                               
